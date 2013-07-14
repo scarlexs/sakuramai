@@ -9,3 +9,5 @@ http://sakuramai.sinaapp.com/
 使用django开发的网站，版本号为django1.4
 
 push by scarlexs
+
+what the!!!!!!!!
